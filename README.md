@@ -45,7 +45,6 @@ See 'snap info docker' for additional versions.
 
 
 Скриншоты:
-![Scren](https://github.com/mteplov/Docker5/blob/main/screen/zadanie1.1.png)
 ![Scren](https://github.com/mteplov/Docker5/blob/main/screen/zadanie1.2.png)
 ![Scren](https://github.com/mteplov/Docker5/blob/main/screen/zadanie1.3.png)
 ![Scren](https://github.com/mteplov/Docker5/blob/main/screen/zadanie1.4.png)
